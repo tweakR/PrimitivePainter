@@ -1,4 +1,4 @@
-package com.example.vyacheslav.doodlz;
+package com.example.vyacheslav.primitive_painter;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

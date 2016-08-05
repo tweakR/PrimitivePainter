@@ -1,6 +1,6 @@
 <fragment
     android:id="@+id/doodleFragment"
-    android:name="com.example.vyacheslav.doodlz.MainActivityFragment"
+    android:name="com.example.vyacheslav.primitive_painter.MainActivityFragment"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"

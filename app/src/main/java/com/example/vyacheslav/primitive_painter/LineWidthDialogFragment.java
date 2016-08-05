@@ -1,4 +1,4 @@
-package com.example.vyacheslav.doodlz;
+package com.example.vyacheslav.primitive_painter;
 
 import android.app.Activity;
 import android.app.AlertDialog;

@@ -1,4 +1,4 @@
-package com.example.vyacheslav.doodlz;
+package com.example.vyacheslav.primitive_painter;
 
 import android.content.pm.ActivityInfo;
 import android.content.res.Configuration;
